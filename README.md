@@ -1,0 +1,2 @@
+# webaseWithSoap
+enable soapClient
